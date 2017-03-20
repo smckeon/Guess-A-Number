@@ -1,0 +1,17 @@
+* {
+  color: #e0d9ca;
+  background-color: #214649;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 32px;
+  text-transform: full-width;
+  color: #d2a890;
+}
